@@ -1,0 +1,93 @@
+[
+    {
+        "ID":1,
+        "Name":"Zaheer khan",
+        "Age":46,
+        "Total_wickets":610,
+        "Best_figure":"7/87",
+        "Bowling-Average":30.2,
+        "Highest-ranking":2
+    },
+    {
+        "ID":2,
+        "Name":"Anil Kumble",
+        "Age":50,
+        "Total_wickets":619,
+        "Best_figure":"10/74",
+        "Bowling-Average":29.6,
+        "Highest-ranking":1
+    },
+    {
+        "ID":3,
+        "Name":"Mutthiah Muralitharan",
+        "Age":48,
+        "Total_wickets":800,
+        "Best_figure":"9/51",
+        "Bowling-Average":22.7,
+        "Highest-ranking":1
+    },
+    {
+        "ID":4,
+        "Name":"Shane Warne",
+        "Age":51,
+        "Total_wickets":708,
+        "Best_figure":"8/71",
+        "Bowling-Average":25.4,
+        "Highest-ranking":1
+    },
+    {
+        "ID":5,
+        "Name":"Glenn McGrath",
+        "Age":50,
+        "Total_wickets":563,
+        "Best_figure":"8/24",
+        "Bowling-Average":21.6,
+        "Highest-ranking":1
+    },
+    {
+        "ID":6,
+        "Name":"Wasim Akram",
+        "Age":54,
+        "Total_wickets":916,
+        "Best_figure":"7/119",
+        "Bowling-Average":23.6,
+        "Highest-ranking":1
+    },
+    {
+        "ID":7,
+        "Name":"Dale Steyn",
+        "Age":37,
+        "Total_wickets":439,
+        "Best_figure":"7/51",
+        "Bowling-Average":22.9,
+        "Highest-ranking":1
+    },
+    {
+        "ID":8,
+        "Name":"James Anderson",
+        "Age":41,
+        "Total_wickets":987,
+        "Best_figure":"7/42",
+        "Bowling-Average":26.8,
+        "Highest-ranking":1
+    },
+    {
+        "ID":9,
+        "Name":"Jasprit Bumrah",
+        "Age":30,
+        "Total_wickets":382,
+        "Best_figure":"6/19",
+        "Bowling-Average":21.3,
+        "Highest-ranking":1
+    },
+    {
+        "ID":10,
+        "Name":"Pat Cummins",
+        "Age":31,
+        "Total_wickets":467,
+        "Best_figure":"6/23",
+        "Bowling-Average":23.4,
+        "Highest-ranking":1
+    }
+    
+]

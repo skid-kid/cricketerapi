@@ -1,0 +1,102 @@
+[
+    {
+        "ID":1,
+        "Name":"Sachin Tendulkar",
+        "Age":51 ,
+        "Centuries":100,
+        "Highest-score":"248*",
+        "Average-Test":53.78,
+        "Average-ODI":44.83,
+        "Highest-ranking":1    
+    },
+    {
+        "ID":2,
+        "Name":"Ricky Ponting",
+        "Age":45,
+        "Centuries":71,
+        "Highest-score":"257",
+        "Average-Test":51.85,
+        "Average-ODI":42.03,
+        "Highest-ranking":1
+    },
+    {
+        "ID":3,
+        "Name":"Brian Lara",
+        "Age":50,       
+        "Centuries":34,
+        "Highest-score":"400*",
+        "Average-Test":52.88,
+        "Average-ODI":40.48,
+        "Highest-ranking":1
+    },
+    {
+        "ID":4,
+        "Name":"Jacques Kallis",
+        "Age":44,
+        "Centuries":45,
+        "Highest-score":"224",
+        "Average-Test":55.37,
+        "Average-ODI":44.36,
+        "Highest-ranking":1
+    },
+    {
+        "ID":5,
+        "Name":"Rahul Dravid",
+        "Age":47,
+        "Centuries":36,
+        "Highest-score":"270",
+        "Average-Test":52.31,
+        "Average-ODI":39.16,
+        "Highest-ranking":1
+
+    },
+    {
+        "ID":6,
+        "Name":"Virat Kohli",
+        "Age":35,
+        "Centuries":80,
+        "Highest-score":"254*",
+        "Average-Test":48.62,
+        "Average-ODI":58.57,
+        "Highest-ranking":1},
+    {
+          "ID":7,
+          "Name":"Mahendra Singh Dhoni",
+          "Age":42,
+          "Centuries":16,
+          "Highest-score":"224",
+          "Average-Test":38.09,
+          "Average-ODI":50.57,
+          "Highest-ranking":1
+    },
+    {
+        "ID":8,
+        "Name":"Sourav Ganguly",
+        "Age":48,
+        "Centuries":38,
+        "Highest-score":"239",
+        "Average-Test":42.17,
+        "Average-ODI":41.02,
+        "Highest-ranking":1
+    },
+    {
+        "ID":9,
+        "Name":"Adam Gilchrist",
+        "Age":48,
+        "Centuries":33,
+        "Highest-score":"204*",
+        "Average-Test":47.60,
+        "Average-ODI":35.89,
+        "Highest-ranking":1
+    },
+    {
+        "ID":10,
+        "Name":"Steve Waugh",
+        "Age":55,
+        "Centuries":32,
+        "Highest-score":"200",
+        "Average-Test":51.06,
+        "Average-ODI":32.90,
+        "Highest-ranking":1
+    }
+]
