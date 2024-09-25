@@ -6,3 +6,4 @@ A basic api that shows you data of some batsman and bowlers.
 https://..          /batsman/firstname%20lastname
 or
 https://..            /bowler/firstname%20lastname
+umm
